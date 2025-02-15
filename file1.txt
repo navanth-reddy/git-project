@@ -1,3 +1,6 @@
 welcome to the git
 
 new line added
+
+
+another line added by user 'one'
