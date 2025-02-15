@@ -3,4 +3,8 @@ welcome to the git
 new line added
 
 
+<<<<<<< HEAD
 another line added by user 'one'
+=======
+the line added by user 'Two"
+>>>>>>> refs/remotes/origin/master
