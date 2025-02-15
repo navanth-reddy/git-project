@@ -1,0 +1,13 @@
+1. Write a program with method removeDuplicates(List<Integer> numbers) that removes duplicate elements from a given List<Integer>.Maintain the original order.
+
+2. Write a program with method findHighestFrequencyElement(List<Integer> numbers) that returns the number present maximum times from a given List<Integer>.
+If there is no such element (e.g., all elements are the same), return -1.
+
+3. Given a List<String> words, create a Map<String, Integer> with the word as Key and count the frequency of that word as a value.
+
+4. Write a program with method mergeLists(List<Integer> list1, List<Integer> list2) that merges the lists into one sorted list.
+
+5. Given two List<String> of students who appeared for either Maths and Science Olympiad or both, write a program to search:
+a)who have appeared for both the tests
+b) who have appeared for only Maths but not Science 
+c) who have appeared for only Science but not Maths
